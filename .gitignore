@@ -1,0 +1,7 @@
+.idea/
+venv
+*.qvw
+*.log
+*.tmp
+*.txt
+*.pyc
